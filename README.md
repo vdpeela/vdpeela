@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vdpeela
-- 👀 I’m interested in Data science, Machine learning and Data Analytics.
-- 🌱 I’m currently learning Python, Git, Power BI, Machine Learning, GCP, Spark, Databricks etc.
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 👀 I’m interested in Data Analytics, Data science and Machine learning.
+- 🌱 I’m currently doing projects in Power BI, Looker, Machine Learning, BigQuery etc.
+- 💞️ I’m looking to collaborate on Data Analytics projects.
 - 📫 How to reach me @vdpeela
